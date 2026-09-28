@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="NextCloud_WSLC/NextCloud_WSLC.csproj" />
+  <Project Path="PetStore_WSLC/PetStore_WSLC.csproj" />
+  <Project Path="WireMock.Net_WSLC/WireMock.Net WSLC.csproj" />
+</Solution>
